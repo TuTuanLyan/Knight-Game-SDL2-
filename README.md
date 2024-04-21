@@ -1,4 +1,4 @@
-# Knight Game
+# Knight Game:
 
   My first SDL2 game C++ project in UET-VNU on 15/4/2024.
 
@@ -6,6 +6,7 @@
   - [Knight Game Play](https://www.youtube.com/watch?v=w9Rrso-n9jg)
 
 # Credit:
+
   Special thanks to:
 
   - [Layzy Foo](https://lazyfoo.net/tutorials/SDL/)

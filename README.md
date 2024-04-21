@@ -9,7 +9,7 @@
 
   Special thanks to:
 
-  - [Layzy Foo](https://lazyfoo.net/tutorials/SDL/)
+  - [Lazy Foo](https://lazyfoo.net/tutorials/SDL/)
 
   - [Phát Triển Phần Mềm 123A-Z](https://www.youtube.com/channel/UC8uCXZWa9KYhE1TYvu7PCdQ)
 

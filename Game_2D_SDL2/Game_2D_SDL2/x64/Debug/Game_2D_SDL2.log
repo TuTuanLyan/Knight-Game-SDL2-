@@ -1,2 +1,74 @@
-﻿  Menu.cpp
-  Game_2D_SDL2.vcxproj -> C:\Users\admin\Desktop\Game_2D_SDL2\x64\Debug\Game_2D_SDL2.exe
+﻿  BaseObject.cpp
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BaseObject.cpp(29,16): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BaseObject.cpp(29,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BaseObject.cpp(29,16): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BaseObject.cpp(29,16): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BaseObject.cpp(37,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BaseObject.cpp(37,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BaseObject.cpp(37,17): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BaseObject.cpp(37,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BaseObject.cpp(37,17): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BaseObject.cpp(37,17): warning C4566: character represented by universal-character-name '\u1EEB' cannot be represented in the current code page (1252)
+  BulletObject.cpp
+C:\Users\ADMIN\Documents\Game_2D_SDL2\BulletObject.cpp(32,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Common_Items.cpp
+  Explosion.cpp
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Explosion.cpp(34,20): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Explosion.cpp(34,20): warning C4566: character represented by universal-character-name '\u1EE5' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Explosion.cpp(34,20): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Explosion.cpp(34,20): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Explosion.cpp(34,20): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Explosion.cpp(47,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Explosion.cpp(47,20): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Explosion.cpp(47,20): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+  GameMap.cpp
+C:\Users\ADMIN\Documents\Game_2D_SDL2\GameMap.cpp(27,20): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\GameMap.cpp(27,20): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\GameMap.cpp(47,29): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\GameMap.cpp(47,29): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\GameMap.cpp(47,29): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\GameMap.cpp(47,29): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+  Menu.cpp
+  Plant_Cannon.cpp
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Plant_Cannon.cpp(66,20): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Plant_Cannon.cpp(66,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Plant_Cannon.cpp(66,20): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Plant_Cannon.cpp(66,20): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Plant_Cannon.cpp(66,20): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Plant_Cannon.cpp(148,47): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Plant_Cannon.cpp(149,47): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Plant_Cannon.cpp(177,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Plant_Cannon.cpp(192,69): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Plant_Cannon.cpp(192,69): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PlayerObject.cpp
+C:\Users\ADMIN\Documents\Game_2D_SDL2\PlayerObject.cpp(51,20): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\PlayerObject.cpp(51,20): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\PlayerObject.cpp(51,20): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\PlayerObject.cpp(64,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\PlayerObject.cpp(64,20): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\PlayerObject.cpp(64,20): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\PlayerObject.cpp(306,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\Game_2D_SDL2\PlayerObject.cpp(318,47): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ADMIN\Documents\Game_2D_SDL2\PlayerObject.cpp(318,47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Slime.cpp
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Slime.cpp(75,20): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Slime.cpp(75,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Slime.cpp(75,20): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Slime.cpp(75,20): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Slime.cpp(75,20): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Slime.cpp(223,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Slime.cpp(224,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Slime.cpp(256,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Slime.cpp(271,70): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Slime.cpp(271,70): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TextObject.cpp
+  TheGhost.cpp
+C:\Users\ADMIN\Documents\Game_2D_SDL2\TheGhost.cpp(66,20): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\TheGhost.cpp(66,20): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\TheGhost.cpp(66,20): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Game_2D_SDL2\TheGhost.cpp(118,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Documents\Game_2D_SDL2\TheGhost.cpp(119,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Timer.cpp
+  Generating Code...
+C:\Users\ADMIN\Documents\Game_2D_SDL2\Timer.cpp(62,1): warning C4715: 'Timer::get_ticks': not all control paths return a value
+  Game_2D_SDL2.vcxproj -> C:\Users\ADMIN\Documents\Game_2D_SDL2\x64\Debug\Game_2D_SDL2.exe

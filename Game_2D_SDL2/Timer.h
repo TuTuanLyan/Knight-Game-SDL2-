@@ -1,3 +1,10 @@
+//
+//  Timer.h
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
 #pragma once
 #ifndef TIMER_H
 #define TIMER_H

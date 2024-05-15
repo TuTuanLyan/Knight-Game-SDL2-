@@ -1,4 +1,11 @@
-﻿#pragma once
+﻿//
+//  Common_Items.h
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+#pragma once
 #ifndef COMMON_ITEMS_H
 #define COMMON_ITEMS_H
 

@@ -1,4 +1,11 @@
-﻿#pragma once
+﻿//
+//  Slime.h
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+#pragma once
 #ifndef SLIME_H
 #define SLIME_H
 

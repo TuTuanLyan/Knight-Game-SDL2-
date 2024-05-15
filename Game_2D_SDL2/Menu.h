@@ -1,3 +1,10 @@
+//
+//  Menu.h
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
 #pragma once
 #ifndef MENU_H
 #define MENU_H

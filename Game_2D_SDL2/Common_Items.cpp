@@ -1,3 +1,11 @@
+//
+//  Common_Items.cpp
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+
 #include "Common_Items.h"
 
 bool SDL_COMMON_FUNC::CheckCollision(SDL_Rect& object1, SDL_Rect& object2)

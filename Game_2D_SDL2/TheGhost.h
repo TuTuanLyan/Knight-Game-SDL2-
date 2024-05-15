@@ -1,3 +1,10 @@
+//
+//  TheGhost.h
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
 #pragma once
 #ifndef THE_GHOST_H
 #define THE_GHOST_H

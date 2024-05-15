@@ -1,4 +1,11 @@
-﻿#pragma once
+﻿//
+//  GameMap.h
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+#pragma once
 #ifndef GAME_MAP_H
 #define GAME_MAP_H
 

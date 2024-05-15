@@ -1,4 +1,11 @@
-﻿#pragma once
+﻿//
+//  TextObject.h
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+#pragma once
 #ifndef TEXT_OBJECT_H
 #define TEXT_OBJECT_H
 

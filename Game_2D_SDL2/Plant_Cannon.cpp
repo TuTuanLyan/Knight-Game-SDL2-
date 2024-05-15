@@ -1,4 +1,12 @@
-﻿#include "Plant_Cannon.h"
+﻿//
+//  Plant_Cannon.cpp
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+
+#include "Plant_Cannon.h"
 
 Plant_Cannon::Plant_Cannon() {
 

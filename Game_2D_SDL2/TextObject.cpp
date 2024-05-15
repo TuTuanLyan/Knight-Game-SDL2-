@@ -1,3 +1,11 @@
+//
+//  TextObject.cpp
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+
 #include "TextObject.h"
 
 TextObject::TextObject()

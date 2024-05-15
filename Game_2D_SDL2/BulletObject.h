@@ -1,3 +1,10 @@
+//
+//  BulletObject.h
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
 #pragma once
 #ifndef BULLET_OBJECT_H
 #define BULLET_OBJECT_H

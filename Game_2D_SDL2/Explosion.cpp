@@ -1,4 +1,12 @@
-﻿#include "Explosion.h"
+﻿//
+//  Explosion.cpp
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+
+#include "Explosion.h"
 
 Explosion:: Explosion() {
 	ep_x_pos = 0;

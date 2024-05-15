@@ -1,4 +1,12 @@
-﻿#include "Slime.h"
+﻿//
+//  Slime.cpp
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+
+#include "Slime.h"
 
 Slime::Slime() {
 	slime_x_pos = 0;

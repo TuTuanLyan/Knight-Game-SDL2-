@@ -1,3 +1,10 @@
+//
+//  BaseObject.h
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
 #pragma once
 #ifndef BASE_OBJECT_H
 #define BASE_OBJECT_H

@@ -1,4 +1,12 @@
-﻿#include "TheGhost.h"
+﻿//
+//  TheGhost.cpp
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+
+#include "TheGhost.h"
 
 Ghost::Ghost() {
 	ghost_x_pos = 0;

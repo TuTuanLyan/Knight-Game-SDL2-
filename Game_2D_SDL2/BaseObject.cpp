@@ -1,4 +1,12 @@
-﻿// Bất kì đối tượng nào kế thừa class BaseObject đều có thể sử dụng được render và load img cùng với đó là giải phóng bộ nhớ khi chương trình kết thúc
+﻿//
+//  BaseObject.cpp
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+
+// Bất kì đối tượng nào kế thừa class BaseObject đều có thể sử dụng được render và load img cùng với đó là giải phóng bộ nhớ khi chương trình kết thúc
 
 #include "BaseObject.h"
 

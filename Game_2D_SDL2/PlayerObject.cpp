@@ -1,4 +1,12 @@
-﻿#include "PlayerObject.h"
+﻿//
+//  PlayerObject.cpp
+//  Knight's Challenge Game
+//
+//  Created by Nguyen Tu Anh Tuan.
+//
+
+
+#include "PlayerObject.h"
 
 PlayerObject::PlayerObject() {
 	player_x_pos = 0;

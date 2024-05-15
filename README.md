@@ -5,7 +5,7 @@
 # Video Demo:
   - [Knight Game Play](https://www.youtube.com/watch?v=w9Rrso-n9jg)
 
-#Instructions for installing Knight Game:
+# Instructions for installing Knight Game:
   
   Since I developed this game on Windows, I currently only have installation instructions for windows
   You can see how to install on other operating systems here [Lazy Foo Setup SDL2 tutorial](https://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php)

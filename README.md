@@ -23,7 +23,9 @@
   Repeat the above steps with the remaining image mixxer and tff folders
 
   Image:\SDL2_image-2.8.2\lib\x64
+  
   Mixxer:\SDL2_mixer-2.8.0\lib\x64
+  
   TFF:\SDL2_ttf-2.22.0\lib\x64
 
   Next, open the Game_2D_SDL2 folder with VS or any IDE you want then launch with Debug/x64
